@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    display: flex;
+    margin-bottom: 100px;
+
+}
+.box1{
+   height: 594px;
+   width: 570px;
+   padding: 10px 10px 10px 10px;
+   display: flex;
+   flex-direction: column;
+   margin-top: 39px;
+   margin-left: 85px;
+}
+.box2{
+    height: 594px;
+    width: 570px;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 39px;
+    margin-left: 125px;
+}
+.boxicon{
+    display: flex;
+}
+.boxs{
+    display: flex;
+    justify-content: space-around;
+}
